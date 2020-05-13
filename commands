@@ -1,0 +1,11 @@
+ionic start foodCatalogApp blank
+ionic g page pages/home --spec=false
+ionic g page pages/pratoDoDia --spec=false
+ionic g page pages/categorias --spec=false
+ionic g page pages/categoria --spec=false
+
+Pages Created
+
+ionic g module components
+
+ionic g component components/header --spec=false
