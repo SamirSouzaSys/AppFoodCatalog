@@ -1,9 +1,157 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>Te chega pra comer<br>Restaurante</ion-title>
-  </ion-toolbar>
-</ion-header>
-
 <ion-content>
+  <div id="title" class="ion-text-center">
+    <h1>
+      Te chega pra comer
+    </h1>
+    Restaurante
+  </div>
 
+  <ion-card>
+    <ion-card-header>
+
+      <ion-item>
+        <ion-card-title>Prato do Dia</ion-card-title>
+        <ion-button size="large" fill="outline" slot="end">R$ 12,99</ion-button>
+      </ion-item>
+
+      <ion-item>
+        <ion-card-subtitle>Ótima opção promocional que inclui: uma entrada, um prato de refeição e uma sobremesa.
+        </ion-card-subtitle>
+      </ion-item>
+    </ion-card-header>
+
+    <ion-card-content>
+      <ion-list>
+
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <ion-img
+              src="https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg">
+            </ion-img>
+            <!-- [src]="item.src" -->
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">Nome de um prato</ion-label>
+          <ion-note slot="end" class="ion-text-wrap">Entrada</ion-note>
+        </ion-item>
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <ion-img
+              src="https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg">
+            </ion-img>
+            <!-- [src]="item.src" -->
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">Nome de um prato</ion-label>
+          <ion-note slot="end" class="ion-text-wrap">Prato de refeição</ion-note>
+        </ion-item>
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <ion-img
+              src="https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg">
+            </ion-img>
+            <!-- [src]="item.src" -->
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">Nome de um prato</ion-label>
+          <ion-note slot="end" class="ion-text-wrap">Sobremesa</ion-note>
+        </ion-item>
+
+      </ion-list>
+
+      <!-- <ion-item *ngFor="let item of items">
+        <ion-thumbnail slot="start">
+          <ion-img [src]="item.src"></ion-img>
+        </ion-thumbnail>
+        <ion-label>{{item.text}}</ion-label>
+      </ion-item> -->
+
+      <!-- Icons -->
+
+      <!--  -->
+      <ion-item>
+        <ion-button slot='end' size="medium">
+          Ver
+          <ion-icon slot="end" name="add"></ion-icon>
+        </ion-button>
+      </ion-item>
+
+    </ion-card-content>
+
+  </ion-card>
+
+  <ion-card>
+    <ion-card-header>
+
+      <ion-item>
+        <ion-card-title>Categorias Disponíveis</ion-card-title>
+      </ion-item>
+    </ion-card-header>
+
+    <ion-card-content>
+      <ion-list>
+
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <ion-img
+              src="https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg">
+            </ion-img>
+            <!-- [src]="item.src" -->
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">Nome da Categoria</ion-label>
+          <ion-button slot='end'>
+            Ver
+            <ion-icon slot="end" name="add"></ion-icon>
+          </ion-button>
+        </ion-item>
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <ion-img
+              src="https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg">
+            </ion-img>
+            <!-- [src]="item.src" -->
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">Nome da Categoria</ion-label>
+          <ion-button slot='end'>
+            Ver
+            <ion-icon slot="end" name="add"></ion-icon>
+          </ion-button>
+        </ion-item>
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <ion-img
+              src="https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg">
+            </ion-img>
+            <!-- [src]="item.src" -->
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">Nome da Categoria</ion-label>
+          <ion-button slot='end'>
+            Ver
+            <ion-icon slot="end" name="add"></ion-icon>
+          </ion-button>
+        </ion-item>
+
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <ion-img
+              src="https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg">
+            </ion-img>
+            <!-- [src]="item.src" -->
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">Nome da Categoria</ion-label>
+          <ion-button slot='end'>
+            Ver
+            <ion-icon slot="end" name="add"></ion-icon>
+          </ion-button>
+        </ion-item>
+
+      </ion-list>
+
+      <!-- <ion-item *ngFor="let item of items">
+          <ion-thumbnail slot="start">
+            <ion-img [src]="item.src"></ion-img>
+          </ion-thumbnail>
+          <ion-label>{{item.text}}</ion-label>
+        </ion-item> -->
+    </ion-card-content>
+
+  </ion-card>
 </ion-content>
+<app-footer> </app-footer>
