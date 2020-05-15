@@ -8,5 +8,99 @@
 </app-header>
 
 <ion-content>
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>Prato do dia</ion-card-title>
+    </ion-card-header>
+    <br>
+    <ion-card-content class="ion-text-center">
+      <ion-slides #slidesPratos (ionSlideDidChange)="slideChanged($event)">
+        <!-- pager="true" -->
+        <ion-slide class="slide-entrada">
+          <!-- (click) = "getActiveIndex()" -->
+          <ion-card>
+            <ion-card-content>
+              <ion-label>
+                <h1 class="ion-text-wrap">Nome do Produto</h1>
+                <ion-card-subtitle class="ion-text-wrap">Entrada</ion-card-subtitle>
+              </ion-label>
+              <br>
+              <img src="https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/sardinesca_94123_16x9.jpg" />
+              <br><br>
+              <h2><strong>Detalhes</strong></h2>
+              Founded in 1829 on an isthmus between Lake Monona and Lake Mendota, Madison was named the capital of the
+              Wisconsin
+              Territory in 1836.
+              <br><br>
+            </ion-card-content>
+          </ion-card>
+
+        </ion-slide>
+        <ion-slide class="slide-PratoRefeicao">
+          <ion-card>
+            <ion-card-content>
+              <ion-label>
+                <h1 class="ion-text-wrap">Nome do Produto</h1>
+                <ion-card-subtitle class="ion-text-wrap">Prato de refeição</ion-card-subtitle>
+              </ion-label>
+              <br>
+              <img src="https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/sardinesca_94123_16x9.jpg" />
+              <br><br>
+              <h2><strong>Detalhes</strong></h2>
+              Founded in 1829 on an isthmus between Lake Monona and Lake Mendota, Madison was named the capital of the
+              Wisconsin
+              Territory in 1836.
+              <br><br>
+            </ion-card-content>
+          </ion-card>
+        </ion-slide>
+        <ion-slide class="slide-Sobremesa">
+          <ion-card>
+            <ion-card-content>
+              <ion-label>
+                <h1 class="ion-text-wrap">Nome do Produto</h1>
+                <ion-card-subtitle class="ion-text-wrap">Sobremesa</ion-card-subtitle>
+              </ion-label>
+              <br>
+              <img src="https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/sardinesca_94123_16x9.jpg" />
+              <br><br>
+              <h2><strong>Detalhes</strong></h2>
+              Founded in 1829 on an isthmus between Lake Monona and Lake Mendota, Madison was named the capital of the
+              Wisconsin
+              Territory in 1836.
+              <br><br>
+            </ion-card-content>
+          </ion-card>
+        </ion-slide>
+      </ion-slides>
+      <br><br><br><br>
+      <ion-tabs #buttonsTabs>
+        <ion-tab-bar >
+            <!-- [class]="buttonentrada tabButtonSelected"  -->
+          <ion-tab-button [ngClass]="" (click)="changeSlide(0)">
+            <ion-img src="../../assets/icon/fitness.svg"></ion-img>
+            <ion-label>Entrada</ion-label>
+          </ion-tab-button>
+
+          <!-- [class]="buttonPratoRefeicao" -->
+          <ion-tab-button  (click)="changeSlide(1)">
+            <ion-img src="../../assets/icon/almoco.svg"></ion-img>
+            <ion-label>Prato de Refeição</ion-label>
+          </ion-tab-button>
+
+          <!-- [class]="buttonSobremesa" -->
+          <ion-tab-button  (click)="changeSlide(2)">
+            <ion-img src="../../assets/icon/pudim.svg"></ion-img>
+            <ion-label>Sobremesa</ion-label>
+          </ion-tab-button>
+        </ion-tab-bar>
+      </ion-tabs>
+    </ion-card-content>
+  </ion-card>
+  <br>
+  <ion-label class="ion-text-center">
+    <h1>Somente R$ xx,99</h1>
+
+  </ion-label>
 
 </ion-content>

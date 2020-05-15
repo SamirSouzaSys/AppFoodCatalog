@@ -1,0 +1,23 @@
+ion-img{
+  height:40px;
+}
+
+.tabButtonSelected{
+  background-color: rgba(200,10,10,0.1);
+  
+}
+
+.tab-item.button-entrada.tab-item-active, .tab-item.button-entrada.active, .tab-item.button-entrada.activated {
+  color: red !important;
+  background-color: red;
+}
+
+.tab-item.button-PratoRefeicao.tab-item-active, .tab-item.button-PratoRefeicao.active, .tab-item.button-PratoRefeicao.activated {
+  color: yellow !important;
+  background-color: yellow;
+}
+
+.tab-item.button-Sobremesa.tab-item-active, .tab-item.button-Sobremesa.active, .tab-item.button-Sobremesa.activated {
+  color: green !important;
+  background-color: green;
+}
