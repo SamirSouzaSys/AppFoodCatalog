@@ -1,0 +1,23 @@
+[
+  {
+    "Entrada": [
+      { "id": "E1", "imagem": "...",  "nome": "Nome da Entrada aqui", "detalhes": "..."},
+      { "id": "E2", "imagem": "...",  "nome": "Nome da Entrada aqui", "detalhes": "..."},
+      { "id": "E3", "imagem": "...",  "nome": "Nome da Entrada aqui", "detalhes": "..."},
+      { "id": "E4", "imagem": "...",  "nome": "Nome da Entrada aqui", "detalhes": "..."},
+      { "id": "E5", "imagem": "...",  "nome": "Nome da Entrada aqui", "detalhes": "..." }
+    ], "Refeição": [
+      { "id": "R1", "imagem": "...",  "nome": "Nome da Refeição aqui", "detalhes": "..."},
+      { "id": "R2", "imagem": "...",  "nome": "Nome da Refeição aqui", "detalhes": "..."},
+      { "id": "R3", "imagem": "...",  "nome": "Nome da Refeição aqui", "detalhes": "..."},
+      { "id": "R4", "imagem": "...",  "nome": "Nome da Refeição aqui", "detalhes": "..."},
+      { "id": "R5", "imagem": "...",  "nome": "Nome da Refeição aqui", "detalhes": "..." }
+    ], "Sobremesa": [
+      { "id": "S1", "imagem": "...",  "nome": "Nome da Sobremesa aqui", "detalhes": "..."},
+      { "id": "S2", "imagem": "...",  "nome": "Nome da Sobremesa aqui", "detalhes": "..."},
+      { "id": "S3", "imagem": "...",  "nome": "Nome da Sobremesa aqui", "detalhes": "..."},
+      { "id": "S4", "imagem": "...",  "nome": "Nome da Sobremesa aqui", "detalhes": "..."},
+      { "id": "S5", "imagem": "...",  "nome": "Nome da Sobremesa aqui", "detalhes": "..." }
+    ] 
+  }
+]

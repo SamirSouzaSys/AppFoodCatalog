@@ -1,0 +1,20 @@
+[
+  {
+    "nome":"Entradas",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "id":"E",
+    "idPalavra":"entrada"
+  },
+  {
+    "nome":"Refeições",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",  
+    "id":"R",
+    "idPalavra":"refeicao"
+  },
+  {
+    "nome":"Sobremesas",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "id":"S",
+    "idPalavra":"sobremesa"
+  }
+]

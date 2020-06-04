@@ -1,0 +1,32 @@
+[
+  {
+    "id": "R1",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Refeição 1",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+  },
+  {
+    "id": "R2",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Refeição 2",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+  },
+  {
+    "id": "R3",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Refeição 3",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+  },
+  {
+    "id": "R4",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Refeição 4",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+  },
+  {
+    "id": "R5",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Refeição 5",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+  }
+]

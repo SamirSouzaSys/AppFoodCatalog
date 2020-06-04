@@ -1,0 +1,23 @@
+[
+  {
+    "id": "E1",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Nome Entrada",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar.",
+    "tipo": "Entrada"
+  },
+  {
+    "id": "R1",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Nome Refeição",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar.",
+    "tipo": "Refeição"
+  },
+  {
+    "id": "S1",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "nome": "Nome Sobremesa",
+    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar.",
+    "tipo": "Sobremesa"
+  }
+]

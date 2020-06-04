@@ -1,7 +1,10 @@
-
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { IonSlides, IonTabBar, IonTabs } from '@ionic/angular';
 
+import { DataService } from './../../services/data.service';
+import { Produto } from './../../interfaces/interfaces';
+
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-prato-do-dia',
@@ -13,11 +16,12 @@ export class PratoDoDiaPage implements OnInit {
   @ViewChild('slidesPratos') slides: IonSlides;
   buttonentrada: string = "";
 
-  titulo: string;
+  produtosPratoDoDia: Observable<Produto[]>;
 
-  constructor() { }
+  constructor(private dataService: DataService) { }
 
   ngOnInit() {
+    this.produtosPratoDoDia = this.dataService.getProducts('pratoDoDia');
     document.getElementsByTagName("ion-tab-button")[0].classList.add("tabButtonSelected")
    }
 
