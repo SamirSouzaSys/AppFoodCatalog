@@ -1,5 +1,10 @@
 [
   {
+    "nome":"Lanches",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "id":"L",
+    "idPalavra":"lanche"
+  },  {
     "nome":"Entradas",
     "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
     "id":"E",
@@ -16,5 +21,11 @@
     "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
     "id":"S",
     "idPalavra":"sobremesa"
+  },
+  {
+    "nome":"Bebidas",
+    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "id":"B",
+    "idPalavra":"bebida"
   }
 ]

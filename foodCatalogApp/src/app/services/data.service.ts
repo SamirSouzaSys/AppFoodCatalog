@@ -14,6 +14,10 @@ export class DataService {
   getProducts(tipo: String) {
     switch (tipo) {
 
+      case "lanche":
+        return this.http.get<Produto[]>('../../../assets/data/produtosLanche.json');
+        break;
+
       case "entrada":
         return this.http.get<Produto[]>('../../../assets/data/produtosEntrada.json');
         break;
@@ -24,6 +28,10 @@ export class DataService {
 
       case "sobremesa":
         return this.http.get<Produto[]>('../../../assets/data/produtosSobremesa.json');
+        break;
+
+      case "bebida":
+        return this.http.get<Produto[]>('../../../assets/data/produtosBebida.json');
         break;
         
       case "pratoDoDia":
