@@ -43,6 +43,7 @@ export class CategoriasPage implements OnInit {
       'nome': produtoLocal.nome,
       'imagem': produtoLocal.imagem,
       'detalhes': produtoLocal.detalhes,
+      'preco': produtoLocal.preco,
       'tituloCategoria': tituloCategoria
     };
 

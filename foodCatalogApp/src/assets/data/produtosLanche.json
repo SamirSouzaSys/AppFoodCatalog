@@ -1,32 +1,45 @@
 [
   {
     "id": "L1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Lanche 1",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/lanches/pizza.png",
+    "nome": "Pizza",
+    "detalhes": "Uma deliciosa combinação de Linguiça Calabresa, rodelas de cebolas frescas, azeitonas pretas, mussarela, polpa de tomate, orégano e massa especial garante um sabor único à Pizza de Calabresa",
+    "preco": "R$ 9,36"
   },
   {
     "id": "L2",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Lanche 2",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/lanches/pipoca.png",
+    "nome": "Pipoca",
+    "detalhes": "São feitas com milho livre de transgênicos, estouradas no ar quente, com no máximo 100 calorias por xicara (depende do sabor), livres de gluten e de lactose. São feitas com um tipo de milho chamado mushroom (cogumelo em inglês), que faz com que o produto final seja uma pipoca redonda. Atendem a demanda do consumidor por produtos saudáveis, saborosos e convenientes.",
+    "preco": "R$ 9,18"
   },
   {
     "id": "L3",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Lanche 3",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/lanches/hotdog.png",
+    "nome": "Hotdog",
+    "detalhes": "Preparado com o tradicional pão de brioche, recheado com salsicha Frankfurt coberta com cheddar gratinado, molho mex italian – ideal para quem curte um sabor mais apimentado – e o crocante crispy de nachos.",
+    "preco": "R$ 15,07"
   },
   {
     "id": "L4",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Lanche 4",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/lanches/hambúrguer.png",
+    "nome": "Hambúrguer",
+    "detalhes": "Composto de 8 ingredientes digo que 8 deuses do Olimpo ja tem um representante em terras Brazucas e digo mais...Esse molho de gorgonzola suave merece uma salva de palmas, mas se tratando de um DEUS, temos que adora-lo. O burguer de picanha, com o famoso bacon da casa, o molho sabor delícia e as onion rings são uma combinação perfeita!",
+    "preco": "R$ 12,05"
   },
   {
     "id": "L5",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Lanche 5",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/lanches/bolo.png",
+    "nome": "Bolo",
+    "detalhes": "Bolo de chocolate, recheios de mousse de chocolate, mousse branco com bombom Lollo e chocolate ao leite, cobertura de mousse de chocolate, raspas de chocolate ao leite e bombom Lollo. Contém Glúten e Lactose. Alérgicos: contém farinha de trigo, leite e derivados, ovos. Pode conter amendoim, nozes, castanha de caju, amêndoa e avelã.",
+    "preco": "R$ 16,94"
+  }
+  ,
+  {
+    "id": "L6",
+    "imagem": "../../../assets/imgs/lanches/espeto.png",
+    "nome": "Espeto",
+    "detalhes": "Espetos com carne de frango selecionada, com qualidade aprovada e sabor irresistível. Temperado com ingredientes de confiança por um processo industrial que permite que o tempero penetre em toda carne. São cortes padronizados que garantem ao produto padronização contínua",
+    "preco": "R$ 13,71"
   }
 ]

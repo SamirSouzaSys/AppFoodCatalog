@@ -1,32 +1,44 @@
 [
   {
     "id": "S1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Sobremesa 1",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/sobremesas/PudimDeArrozPegajosoComMangaTailandia.jpg",
+    "nome": "Pudim de arroz pegajoso com manga (Tailândia)",
+    "detalhes": "Há um monte de coisas estranhas para comer na Tailândia, mas esta sobremesa é apenas uma iguaria. Parece simples à primeira vista, apenas um  arroz com manga. Mas a manga torna o arroz realmente delicioso e doce.Dois ou três colheres de sopa de leite de coco e você terá o prazer mais saboroso da Tailandia. E saudável também. Então você deve experimentar, é tão exótico!",
+    "preco": "R$ 19,03"
   },
   {
     "id": "S2",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Sobremesa 2",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/sobremesas/ChurrosEspanha.jpg",
+    "nome": "Churros (Espanha)",
+    "detalhes": "O amor espanhol por churros no café da manhã já é famoso, mas eles podem ser consumidos como um lanche de dia. Esta sobremesa é servida em cafés e são vendidos na rua, bem, por isso é também uma espécie de “comida de rua”. Eles podem ser finos ou grossos e servidos quente. Churros são regados com mel ou polvilhado com açúcar. Quem não conhece um churro?",
+    "preco": "R$ 19,34"
   },
   {
     "id": "S3",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Sobremesa 3",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/sobremesas/KurtoscalacsHungria.jpg",
+    "nome": "Kurtoscalacs (Hungria)",
+    "detalhes": "Esta sobremesa não é apenas gostosa, mas é divertida também! Crianças amam  estas doces.Assemelha-se a uma chaminé, é por isso que às vezes esta sobremesa é chamada bolo Chaminé bolo Fogão Cake. É uma massa em forma de tubo. Kurtoscalacs são rolados no açúcar granulado e aromatizado com especiarias doces. Quando você visitar a Hungria, você vai ver um monte de gente degustando esta sobremesa. Então não perca a chance de experimentá-lo também!",
+    "preco":"R$ 16,18"
   },
   {
     "id": "S4",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Sobremesa 4",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/sobremesas/AnmitsuJapao.jpg",
+    "nome": "Anmitsu (Japão)",
+    "detalhes": "O Japão é um país criativo e há um monte de pratos que não podemos compreender e nem vamos comer. Mas esta sobremesa é realmente uma das mais saborosas no Japão. E, o que é bom, é um tipo saudável de doce. Anmitsu consiste de tais ingredientes: (geléia feita de algas) kanten, anko (pasta de feijão azuki doce), xarope (Mitsu), frutas, sorvete e ervilhas cozidas. É servido com xarope de açúcar preto kuromitu. Quando visitar o Japão, por favor, experimente esta sobremesa! Você nunca vai esquecer de seu gosto!",
+    "preco": "R$ 14,18"
   },
   {
     "id": "S5",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Sobremesa 5",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/sobremesas/AAppleStrudelAustria.jpg",
+    "nome": "A Apple Strudel (Áustria)",
+    "detalhes": "Você pode pensar que strudel de maçã é apenas uma torta de maçã simples. Mas há um segredo por isso que esta sobremesa é tão saborosa e tornou-se um prato famoso da Áustria. O segredo é a massa fina. Deve ser tão fina que possa ser possível ler um jornal através dela. Strudel é recheado com maçãs, canela, passas e migalhas de pão. Esta sobremesa é servida quente com uma colher de sorvete.  Delicia!",
+    "preco": "R$ 13,32"
+  },
+  {
+    "id": "S6",
+    "imagem": "../../../assets/imgs/sobremesas/ProfiterolesFranca.jpg",
+    "nome": "Profiteroles (França)",
+    "detalhes": "França é um país com muitas sobremesas saborosas. Se você visitar a França, vai ser difícil escolher os doces para experimentar – Decisões, decisões! Seus croissants são bem conhecidos em todo o mundo. Mas profiteroles de chocolate são os vencedores finais em cozinha francesa. Profiteroles são pequenas bombinhas recheadas de creme coberto com calda de chocolate. Esta sobremesa se assemelham aos eclairs, mas profiteroles são menores e o recheio é gelado. Você pode sentir o verdadeiro sabor de profiteroles apenas na França.",
+    "preco": "R$ 17,62"
   }
 ]

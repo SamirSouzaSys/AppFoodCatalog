@@ -1,9 +1,3 @@
-<!-- <ion-header>
-  <ion-toolbar>
-    <ion-title>categorias</ion-title>
-  </ion-toolbar>
-</ion-header> -->
-
 <app-header titulo='Categorias'>
 </app-header>
 
@@ -27,7 +21,7 @@
           </ion-thumbnail>
           <ion-label>
             <h2 class="ion-text-wrap">{{produto.nome}}</h2>
-            <h3>R$ xx,99</h3>
+            <h3>{{produto.preco}}</h3>
           </ion-label>
           <ion-button slot='end'
             routerLink='/categoria'

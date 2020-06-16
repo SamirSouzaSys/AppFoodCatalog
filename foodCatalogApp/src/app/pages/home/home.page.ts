@@ -21,10 +21,6 @@ export class HomePage implements OnInit {
 
   @Input() tituloCategoria: string;
 
-  // produtoEntrada: [];
-
-  // private dataStore: { produtos: Produto[] } = { produtos: [] };
-
   constructor(
     private dataService: DataService,
     private navParamService: NavparamService) {
@@ -33,14 +29,6 @@ export class HomePage implements OnInit {
   ngOnInit() {
     this.categorias = this.dataService.getCategorias();
     this.produtosPratoDoDia = this.dataService.getProducts('pratoDoDia');
-    // this.getPratoDoDiaLocal(this.dataService.getProducts('entrada'));
-    // this.getPratoDoDiaLocal();
-
-
-    // console.log("Produtos Prato do dia");
-    // console.dir(this.produtosPratoDoDia);
-    // console.log("Categorias");
-    // console.log(this.categorias);
   }
 
   goToCategoriasPage(anotherPage, nomeCategoria){
@@ -52,26 +40,4 @@ export class HomePage implements OnInit {
     this.navParamService.setNavData(data);
   
   }
-
-  // getPratoDoDiaLocal(dataFrom) {
-  //   console.log("dataFrom");
-  //   console.log(dataFrom);
-
-  //   var produtoLocal;
-
-  //   // produtoLocal = this.dataService.getPratoDoDia('entrada');
-  //   dataFrom.subscribe(
-  //     data =>
-  //   //     produtoLocal = data
-  //     {
-  //       var randomNumber = Math.floor(Math.random() * data.length) + 0;
-  //       this.produtoEntrada = data.slice(randomNumber, randomNumber+1);
-
-  //     }
-  //     );
-      
-  //     console.log("data Intra");
-  //     console.log(this.produtoEntrada);
-  // }
-
 }

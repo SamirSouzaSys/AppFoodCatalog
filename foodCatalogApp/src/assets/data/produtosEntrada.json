@@ -1,32 +1,44 @@
 [
   {
     "id": "E1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Entrada 1",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/entradas/tabuaDeQueijos",
+    "nome": "Canapés",
+    "detalhes": "Os canapés fazem parte das entradas obrigatórias e não há restaurante que se preze que não inclua pelo menos uma variedade de canapés entre os seus melhores petiscos. Feitos principalmente tendo por base pequenos quadradinhos de pão torrado, os canapés prestam-se a uma quase infinidade de receitas.",
+    "preco": "R$ 13,14"
   },
   {
     "id": "E2",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Entrada 2",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/entradas/tabuaDeEnchidos",
+    "nome": "Tábua de enchidos",
+    "detalhes": "Os enchidos são apreciados pela grande maioria das pessoas e os restaurantes encontram neles uma forma garantida para agradar aos seus clientes. Uma boa tábua de enchidos deve primar pela variedade e pela qualidade dos enchidos que oferece. ",
+    "preco": "R$ 15,99"
   },
   {
     "id": "E3",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Entrada 3",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/entradas/tabuaDeCarnesFrias",
+    "nome": "Tábua de queijos",
+    "detalhes": "Existe uma infinidade de escolhas no que diz respeito a queijos. Queijos secos, meio curados, amanteigados, picantes ou condimentados com colorau, queijinhos frescos, requeijões, queijos de vaca, ovelha, cabra ou mistos, queijos de tamanho pequeno ou queijo fatiado constam entre as hipóteses de escolha.",
+    "preco": "R$ 18,62"
   },
   {
     "id": "E4",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Entrada 4",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/entradas/saladasVarias",
+    "nome": "Tábua de carnes frias",
+    "detalhes": "As carnes frias garantem uma das combinações de maior sucesso apresentadas pelos restaurantes como entrada. Poucas pessoas conseguem resistir ao aroma e à visão de uma boa tábua repleta de fiambre, presunto, mortadela, chourição, galantines variadas e outros afins devidamente fatiados e enrolados em canudos presos com um palito e encimados por uma bela azeitona recheada.",
+    "preco": "R$ 15,78"
   },
   {
     "id": "E5",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Entrada 5",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/entradas/manteigasEOutrosCremesEDocesParaBarrar",
+    "nome": "Manteigas e outros cremes e doces para barrar",
+    "detalhes": "O tradicional prato com pequenos pacotes individuais de manteiga, marmeladas ou outros doces de fruta (tomate, laranja. amora, entre outros), e também os queijos-creme para barrar no pão são entradas usadas com sucesso por todos os tipos de restaurante, desde os mais luxuosos aos mais humildes.",
+    "preco": "R$ 14,08"
+  },
+  {
+    "id": "E6",
+    "imagem": "../../../assets/imgs/entradas/Canapes",
+    "nome": "Saladas várias",
+    "detalhes": "Salada de orelha-de-porco, salada de polvo, salada de atum ou salada russa com camarão são apresentadas por muitos restaurantes em pequenas doses individuais e servidas como entradas frias.",
+    "preco": "R$ 19,49"
   }
 ]

@@ -1,30 +1,30 @@
 [
   {
     "nome":"Lanches",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "imagem": "../../../assets/imgs/lanches/categoriaLanche.png",
     "id":"L",
     "idPalavra":"lanche"
   },  {
     "nome":"Entradas",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "imagem": "../../../assets/imgs/entradas/categoriaEntrada.jpg",
     "id":"E",
     "idPalavra":"entrada"
   },
   {
     "nome":"Refeições",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",  
+    "imagem": "../../../assets/imgs/refeicoes/categoriaRefeicoes.jpg",  
     "id":"R",
     "idPalavra":"refeicao"
   },
   {
     "nome":"Sobremesas",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "imagem": "../../../assets/imgs/sobremesas/categoriaSobremesas.jpg",
     "id":"S",
     "idPalavra":"sobremesa"
   },
   {
     "nome":"Bebidas",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
+    "imagem": "../../../assets/imgs/bebidas/categoriaBebidas.jpeg",
     "id":"B",
     "idPalavra":"bebida"
   }

@@ -1,32 +1,44 @@
 [
   {
     "id": "R1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Refeição 1",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/refeicoes/PoutineMontrealCanada.jpg",
+    "nome": "Aussie Meat Pie (Sydney, Austrália)",
+    "detalhes": "Enquanto a identidade gastronômica da Austrália continua a evoluir com influências de imigrantes de todo o mundo, a torta de carne continua sendo a comida mais marcante do país. Cada australiano consome uma média de 12 meat pies por ano, enquanto na Nova Zelândia este número sobre para 15. A aussie meat pie tradicional é recheada com carne e molho, servida com purê de batata, purê de ervilhas e molho de tomate. Um agradável passeio a partir do Porto de Sydney até o famoso Harry’s Café de Wheels, onde são vendidas as meat pies mais emblemáticas da Austrália, é uma ótima maneira de começar sua viagem pela terra dos cangurus.",
+    "preco": "R$ 34,75"
   },
   {
     "id": "R2",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Refeição 2",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/refeicoes/FrancesinhaPortoPortugal.jpg",
+    "nome": "Arroz con Habichuelas (San Juan, Porto Rico)",
+    "detalhes": "O aroma irresistível do tempero latino domina os sentidos no momento em que você pisa em Porto Rico, um destino que combina cultura com as praias azul turquesa do mar do Caribe. Muito similar ao nosso arroz com feijão, o prato nacional de Porto Rico é o arroz com habichuelas, encontrado em todos os pequenos restaurantes das coloridas ruas de San Juan. Cada país da América Central conta com sua própria versão deste versátil prato, como gallo pinto na Costa Rica e Nicarágua ou casamiento no Panamá e El Salvador. Experimente todos eles até encontrar seu favorito!",
+    "preco": "R$ 23,86"
   },
   {
     "id": "R3",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Refeição 3",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/refeicoes/CalcotadaBarcelona​​Espanha.jpg",
+    "nome": "Francesinha (Porto, Portugal)",
+    "detalhes": "Não se deixe enganar pela referência à França: a francesinha é uma verdadeira instituição do Porto, um prato icônico classificado entre os melhores sanduíches do mundo. A tradicional francesinha do Porto foi criada nos anos 60 para ser uma versão portuguesa do francês croque monsieur. O que se encontra entre as duas camadas de pão, porém, não é para os fracos: carne de porco assada, presunto curado, salsicha defumada, bacon e um bife mal-passado. Esta deliciosa torre de carne é então coberta com queijo derretido, ovo frito e um espesso molho picante feito à base de tomate e cerveja.",
+    "preco": "R$ 34,03"
   },
   {
     "id": "R4",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Refeição 4",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/refeicoes/BanhMìHoChiMinhVietna.jpg",
+    "nome": "Poutine (Montreal, Canadá)",
+    "detalhes": "Batata frita, molho de carne e queijo coalho –quão incrível é essa combinação? Este clássico da culinária québécois é tão delicioso que você querer sair da dieta durante toda a sua viagem pelo Canadá. O molho fumegante derrete os pedaços de queijo suavemente, transformando a poutine em um delicioso prato de inverno, perfeito para o clima canadense. Alguns restaurantes, como o famoso Whistle Stop Café, têm mais de 100 variações no cardápio, provando que existe uma poutine perfeita para todo mundo.",
+    "preco": "R$ 31,06"
   },
   {
     "id": "R5",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Refeição 5",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/refeicoes/AussieMeatPieSydneyAustralia.jpg",
+    "nome": "Calçotada (Barcelona, ​​Espanha)",
+    "detalhes": "Um ensolarado dia de paella, tapas e sangria é o desejo de milhares de turistas que visitam o mais movimentado destino do Mediterrâneo. Todos esses pratos podem ser encontrados facilmente em Barcelona, ​​mas acredite se quiser, eles não representam nem de perto a comida típica da região. A comunidade autônoma da Catalunha orgulha-se da sua cultura gastronômica própria, que inclui uma variedade de pratos locais que você não encontrará em nenhum outro lugar do mundo. Se você estiver disposto a descobrir as verdadeiras tradições culinárias de Barcelona, ​​não deixe de participar de uma Calçotada, uma versão vegetariana do churrasco. Todos os anos, entre novembro e março, os catalães se reúnem com amigos e familiares para comer esta espécie de cebola (calçots), que são colocadas em uma grelha de carvão até a base ficar carbonizada. Usando as próprias mãos, a parte carbonizada dos calçots é removida e mergulhada no delicioso molho romesco, feito de pimentão vermelho e nozes.",
+    "preco": "R$ 28,84"
+  },
+  {
+    "id": "R6",
+    "imagem": "../../../assets/imgs/refeicoes/ArrozConHabichuelasSanJuanPortoRico.jpg",
+    "nome": "Bánh Mì (Ho Chi Minh, Vietnã)",
+    "detalhes": "Durante uma viagem pelo Sudeste Asiático, é bem provável que depois de um tempo você já não consiga mais ver arroz e noodles na sua frente. Felizmente, o Vietnã oferece uma deliciosa alternativa de comida típica que combina ingredientes ocidentais e orientais: o bánh mì, resultado da influência francesa no Sudeste Asiático. Descrito pelo famoso chef Anthony Bourdain como “uma sinfonia em forma de sanduíche”, este lanche vietnamita consiste em uma baguete recheada com suculenta carne de porco assada, patê de fígado, coentro fresco e fatias de pepino, cenoura e rabanete daikon.",
+    "preco": "R$ 36,32"
   }
 ]

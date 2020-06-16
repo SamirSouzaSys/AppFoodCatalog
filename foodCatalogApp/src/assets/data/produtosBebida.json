@@ -1,32 +1,44 @@
 [
   {
     "id": "B1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Bebida 1",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/bebidas/AguaAromatizada.png",
+    "nome": "Águas aromatizadas",
+    "detalhes": "Sim, o melhor calmante para a sede no verão é a água, mas nós não falamos de um simples copo de água chato e insípido, mas a água preparada com infusões de hortelã, morango, laranja, limão, pepino, servidas bem geladas e coloridas. Em alguns restaurantes orgânicos por exemplo, oferecem sua própria água 'recém-feita', graças a filtros instalados em suas cozinhas, e também com infusões. Um detalhe que encanta seus clientes.",
+    "preco":"R$ 8,15"
   },
   {
     "id": "B2",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Bebida 2",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/bebidas/AguaDeCoco.jpg",
+    "nome": "Água de coco",
+    "detalhes": "A água de coco é simplesmente deliciosa e super-hidratante. Tem um toque doce e é cada vez mais conhecida e consumida pelos clientes em geral. Você pode incluir suas próprias versões de água de coco em sua oferta, adicionando também hortelã, manjericão, lavanda ou especiarias, e vendê-las como uma bebida fantástica para este verão.",
+    "preco":"R$ 7,74"
   },
   {
     "id": "B3",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Bebida 3",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/bebidas/Sangria.jpg",
+    "nome": "Sangrias reinventadas",
+    "detalhes": "Uma bebida clássica do verão é a sangria, combinação perfeita de vinho com frutas e muito gelo para refrescar no verão. Em 2018, a sangria é reinventada e combinada com novas frutas, bebidas, ervas e produtos, para surpreender os clientes que adoram esta bebida. Neste ano, há sangrias de melancia misturadas com espumante de vinho rosé e toques cítricos. Também de manga, hortelã e com toques de rum, por exemplo. Ou sangria de morango com cidra rosa e especiarias. Você pode fazer testes com seu barman e criar sangrias saborosas para surpreender seus clientes. Uma bebida muito versátil e que agrada especialmente a geração de millennials, por ser uma maneira suave e leve de consumir bebidas alcoólicas no verão.",
+    "preco":"R$ 9,62"
   },
   {
     "id": "B4",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Bebida 4",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/bebidas/ChaComSorvete.jpg",
+    "nome": "Chá com sorvete",
+    "detalhes": "O chá frio também é outro clássico para os meses de dezembro e janeiro. Agora, o que aconteceria se o combinássemos com sorvete? Com certeza os clientes ficariam encantados. Com a tendência saudável, o chá, especialmente o verde e sua variedade Matcha, entrou na moda, e é perfeito incluí-lo como parte das bebidas de verão. Para ter uma ideia, no Caj Chai, em Barcelona, seus clientes enchem as mesas durante o inverno graças à infinita variedade de chás, mas também no verão, já que fazem algumas versões geladas e muito gostosas. As duas bebidas mais populares são o Té Chai e o Té Matcha com sorvetes da mesma mistura.",
+    "preco":"R$ 5,41"
   },
   {
     "id": "B5",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Bebida 5",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar."
+    "imagem": "../../../assets/imgs/bebidas/Mocktails.jpg",
+    "nome": "Mocktails digestivos",
+    "detalhes": "Atualmente, os clientes procuram restaurantes onde possam cuidar de si e se divertirem ao mesmo tempo. Isto é o que propõem os coquetéis sem álcool ou mocktails, e especialmente aqueles que de destacam neste verão, feitos com ingredientes que possuem propriedades benéficas para a saúde. Os mais populares usam especiarias digestivas, estimulantes e diuréticas, como açafrão, hortelã, canela, cominho e especialmente o gengibre, que já é o rei das bebidas saudáveis por seu sabor potente.",
+    "preco":"R$ 15,32"
+  },
+  {
+    "id": "B6",
+    "imagem": "../../../assets/imgs/bebidas/sucos.jpg",
+    "nome": "Sucos cold-pressed",
+    "detalhes": "Sucos de frutas naturais e verduras prensados a frio ou cold-pressed, que conservam todos os nutrientes e o sabor. Os restaurantes que atraem clientes com estas bebidas fazem uma variedade de combinações e as servem bem frias, de forma que têm também um efeito energizante, desintoxicante, antioxidante ou vitamínico, de acordo com seus ingredientes.",
+    "preco":"R$ 6,48"
   }
 ]

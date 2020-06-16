@@ -1,23 +1,23 @@
 [
   {
-    "id": "E1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Nome Entrada",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar.",
+    "id": "E2",
+    "imagem": "../../../assets/imgs/pratoDoDia/tabuaDeEnchidos.jpg",
+    "nome": "Tábua de enchidos",
+    "detalhes": "Os enchidos são apreciados pela grande maioria das pessoas e os restaurantes encontram neles uma forma garantida para agradar aos seus clientes. Uma boa tábua de enchidos deve primar pela variedade e pela qualidade dos enchidos que oferece. ",
     "tipo": "Entrada"
   },
   {
     "id": "R1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Nome Refeição",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar.",
+    "imagem": "../../../assets/imgs/pratoDoDia/PoutineMontrealCanada.jpg",
+    "nome": "Aussie Meat Pie (Austrália)",
+    "detalhes": "Enquanto a identidade gastronômica da Austrália continua a evoluir com influências de imigrantes de todo o mundo, a torta de carne continua sendo a comida mais marcante do país.",
     "tipo": "Refeição"
   },
   {
-    "id": "S1",
-    "imagem": "https://cdn0.matrimonios.cl/emp/fotos/4/8/9/7/t30_2x_ensalada-de-aguacate-y-gambas_8_124897.jpg",
-    "nome": "Nome Sobremesa",
-    "detalhes": "Donec lobortis laoreet odio, vitae efficitur mi tempus eu. Integer viverra tellus a tristique pulvinar.",
+    "id": "S4",
+    "imagem": "../../../assets/imgs/pratoDoDia/AnmitsuJapao.jpg",
+    "nome": "Anmitsu (Japão)",
+    "detalhes": "O Japão é um país criativo e há um monte de pratos que não podemos compreender e nem vamos comer. Mas esta sobremesa é realmente uma das mais saborosas no Japão. E, o que é bom, é um tipo saudável de doce. Anmitsu consiste de tais ingredientes: (geléia feita de algas) kanten, anko (pasta de feijão azuki doce), xarope (Mitsu), frutas, sorvete e ervilhas cozidas.",
     "tipo": "Sobremesa"
   }
 ]

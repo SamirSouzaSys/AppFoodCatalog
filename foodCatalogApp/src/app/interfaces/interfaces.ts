@@ -4,6 +4,7 @@ export interface Produto {
   nome: string;
   detalhes: string;
   tipo: string;
+  preco: string;
 }
 
 export interface Categoria {

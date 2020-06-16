@@ -9,8 +9,6 @@ import { PratoDoDiaPageRoutingModule } from './prato-do-dia-routing.module';
 
 import { PratoDoDiaPage } from './prato-do-dia.page';
 
-
-
 @NgModule({
   imports: [
     CommonModule,
