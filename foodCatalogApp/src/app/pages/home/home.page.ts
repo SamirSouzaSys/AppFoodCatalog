@@ -38,6 +38,5 @@ export class HomePage implements OnInit {
     };
 
     this.navParamService.setNavData(data);
-  
   }
 }
