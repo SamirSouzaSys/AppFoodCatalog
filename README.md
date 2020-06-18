@@ -4,7 +4,9 @@ Projeto desenvolvido para a disciplina Projeto - Desenvolvimento Para Dispositiv
 App para divulgação dos produtos de um restaurante. Um cardápio.
 
 Vídeo de demonstração do APP - https://bit.ly/appFoodCatalog
+
 Projeto no Github - https://github.com/SamirSouzaSys/AppFoodCatalog
+
 Download da APK dentro do projeto no Github - https://bit.ly/appFoodCatalog-appAPK
 
 
